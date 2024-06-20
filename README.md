@@ -1,5 +1,5 @@
-<h1 align="center">Opaaaa👋, Eu sou o Eduardo Silvério</h1>
-<h3 align="center">Entusiasta por Engenharia e Análise de Dados</h3>
+<h1 align="left">Opaaaa👋, Eu sou o Eduardo Silvério</h1>
+<h3 align="left">Entusiasta por Engenharia e Análise de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo *Python, SQL, Cloud Computing, ETL, Data Engineer, Spark*
 
